@@ -14,7 +14,7 @@ const Detalhes = ({navitagion, route}) => {
         </View>
         <View style={{padding:20, marginTop:60}}> 
         <Text>
-          Procuro alguém para construção de um muro de x metros por x metros em um terreno.
+          Procuro alguém para construção de uma parede.
         </Text>
 
         </View>
